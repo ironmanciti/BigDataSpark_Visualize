@@ -1,0 +1,8 @@
+winemag-data-130k-v2.json
+https://drive.google.com/file/d/1dOsv8ofUSsVG7P3pjemkRS7LgULWXfB9/view?usp=share_link
+
+winemag-data-130k-v2.csv
+https://drive.google.com/file/d/1hcqXnDULv3QGc38sfPDmE22n9LQBcxBe/view?usp=share_link
+
+winemag-data_first150k.csv
+https://drive.google.com/file/d/1SdiEPfVbel8Jsg1_UkJdamWtizi1eMLm/view?usp=share_link

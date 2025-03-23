@@ -1,0 +1,21 @@
+conda create -n pyspark-env
+conda activate pyspark-env
+
+conda install pyspark
+
+pip install jupyter notebook
+
+jupyter kernelspec list
+	python3        C:\Users\trimu\anaconda3\envs\pyspark-env\share\jupyter\kernels\python3
+
+python -m ipykernel install --user --name=pyspark-env
+
+jupyter kernelspec list
+	python3        C:\Users\trimu\anaconda3\envs\pyspark-env\share\jupyter\kernels\python3
+  	pyspark-env    C:\Users\trimu\AppData\Roaming\jupyter\kernels\pyspark-env
+
+pip install scikit-learn
+
+pip install findspark
+
+pip install seaborn
